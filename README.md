@@ -11,3 +11,5 @@ Currently available keywords:
 * `flip`
 * `give`
 * `doit`
+* `yay`
+* `elbows`
