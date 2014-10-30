@@ -13,3 +13,4 @@ Currently available keywords:
 * `doit`
 * `yay`
 * `elbows`
+* `riot`
